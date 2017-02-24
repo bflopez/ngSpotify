@@ -1,5 +1,7 @@
 # Angular SpotifyAPI Application
 
+An application built ontop of Angular Quickstart using the Spotify API to find artists, albums and preview tracks.
+
 ## Prerequisites
 
 Node.js and npm are essential to Angular development. 
